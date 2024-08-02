@@ -1,1 +1,1 @@
-# simple_webite_in_python
+# simple_website_in_python
